@@ -17,6 +17,8 @@ The Linux binary can be found [here](https://static.snyk.io/cli/latest/snyk-linu
 
 This [article](https://snyk.io/learn/docker-security-scanning/) from Snyk’s documentation explains how to use Snyk’s CLI for Docker security.
 
+The Snyk CLI needs to be initialised before being used. In order to do that, you'll have to create and register an account in their platform ([snyk.io](https://snyk.io/)). The registration is free. More details on how to initialise the CLI [here](https://docs.snyk.io/features/snyk-cli/install-the-snyk-cli/authenticate-the-cli-with-your-account)
+
 
 ## Wazuh Capability:
 
